@@ -2,7 +2,7 @@ class Dish
 Attributes:
 1. cuisine (array)
 2. spice_level (array)
-3. price (float)
+3. price_in_dollars (float)
 4. contain_nuts? (boolean)
 Method:
 1. change_cusine (changes the cuisine of the dish ordered)
