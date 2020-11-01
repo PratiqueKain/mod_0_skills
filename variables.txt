@@ -1,0 +1,9 @@
+food = "pizza"
+is_delicious = true
+food = "pasta"
+num2 = 25
+num7 = 50
+num7/num2
+songs = ["hold your head up high","gods of loss","build you a home","boy with luv"]
+songs.shift()
+food.size()
