@@ -1,0 +1,13 @@
+class Cutlery
+Attributes
+1. type (array)
+2. shape (string)
+3. size (string)
+4. is_made_of_glass? (boolean)
+5. is_clean? (boolean)
+Methods
+1. pick_type (picks a different type of cutlery from options available)
+2. change_shape (changes shape of cutlery)
+3. change_size (provides size of cutlery)
+4. change_material (changes material of cutlery to glass if attribute boolean is false)
+5. replace_cutlery (replace cutlery if is_clean is false)
