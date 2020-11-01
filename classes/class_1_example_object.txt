@@ -1,0 +1,11 @@
+chicken_pad_thai
+Attribute values
+1. cuisine - "Thai"
+2. spice_level - "high"
+3. price_in_dollars - 12.5
+4. contain_nuts? - true
+Results after applying Method
+1. cuisine - "Indian"
+2. spice_level - "medium"
+3. price_in_dollars - 15.0
+4. contain_nuts - false
