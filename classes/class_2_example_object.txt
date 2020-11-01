@@ -1,0 +1,13 @@
+my_plate
+Attributes
+1. type - plate
+2. shape - round
+3. size - large
+4. is_made_of_glass - true
+5. is_clean - false
+Results after applying methods
+1. drinking glass
+2. cylindrical
+3. small
+3. does nothing since the boolean value is true
+4. gives new glass since boolean value is false
