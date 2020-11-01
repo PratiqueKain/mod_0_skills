@@ -1,0 +1,11 @@
+class Dish
+Attributes:
+1. cuisine (array)
+2. spice_level (array)
+3. price (float)
+4. contain_nuts? (boolean)
+Method:
+1. change_cusine (changes the cuisine of the dish ordered)
+2. reduce_spice (reduces the spice content of the dish ordered)
+3. total_price (add tip to after-tax price to arrive at the final price)
+4. remove_nuts (remove nuts from dish if boolean returned is true for attribute contain_nuts?)
