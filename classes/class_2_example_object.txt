@@ -1,8 +1,8 @@
 my_plate
 Attributes
-1. type - plate
-2. shape - round
-3. size - large
+1. type - "plate"
+2. shape - "round"
+3. size - "large"
 4. is_made_of_glass - true
 5. is_clean - false
 Results after applying methods
